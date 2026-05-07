@@ -46,8 +46,5 @@ Today I learned how to create SQL tables, insert records, and perform various SQ
 
 ---
 
-## Author
 
-### Mani Bala Peethani  
-B.Tech (AIML) Student
 
